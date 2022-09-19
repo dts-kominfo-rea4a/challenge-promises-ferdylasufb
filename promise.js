@@ -14,7 +14,7 @@ const promiseOutput = async (emosi) => {
   });
   return hitungEmosi;
 }
-
+//Selesai
 module.exports = {
   promiseOutput,
 };
